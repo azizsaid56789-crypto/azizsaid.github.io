@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    font-family:Arial;
+    background:#0f172a;
+    color:white;
+    text-align:center;
+}
+
+header{
+    background:#020617;
+    padding:40px;
+}
+
+h1{
+    font-size:40px;
+}
+
+section{
+    padding:40px;
+}
+
+.project{
+    background:#1e293b;
+    margin:20px auto;
+    padding:20px;
+    width:300px;
+    border-radius:10px;
+}
